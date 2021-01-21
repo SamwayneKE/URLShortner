@@ -1,3 +1,3 @@
 # URLShortner
 
-This is a simple url shortner created using flask
+This is a simple url shortner created using flask. Styling is done using bootstrap  
